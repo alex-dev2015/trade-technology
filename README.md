@@ -6,6 +6,7 @@
 - [Iniciando](#getting_started)
 - [Prerequisitos](#requisite)
 - [Backend](#backend)
+- [Modelo](#modelo)
 - [Tecnologias](#tech)
 - [Licença](#license)
 
@@ -67,13 +68,9 @@ Por padrão ao subir o servidor com o artisan, ele é iniciado na porta 8000
 ```
 http:\\localhost:8000
 ```
-### 📋 Documentação com o Swagger <a name = "docs"></a>
+### 📋 Modelo Relacional <a name = "modelo"></a>
 
-Após subir o servidor, é possível acessar a documentação da API através do seguinte link:
-
-```
-http://localhost:8000/api/documentation
-```
+![Modelo](https://github.com/alex-dev2015/trade-technology/blob/master/Modelo.png)
 
 
 ## 🛠 Tecnologias Utilizadas <a name = "tech"></a>
